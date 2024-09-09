@@ -39,4 +39,4 @@ Um projeto desenvolvido para criar uma página de login.
 ## Autor(a)
  
 Projeto desenvolvido pelo aluno:
- *Miguel Gonçalves Reis
+ * Miguel Gonçalves Reis
